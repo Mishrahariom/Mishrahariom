@@ -14,7 +14,8 @@
 - 🔭 I’m currently working on [Bharat intern](https://hariommishra-portfolio.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mishrahariom](https://github.com/Mishrahariom)
-- 👀 My  Achivements [Certificates](https://drive.google.com/drive/folders/1CTzJr9bETXpkPZIBh77MD8uthmh0T3KD?usp=drive_link) 
+
+- 🎉🏅 My Achivements [Certificates](https://drive.google.com/drive/folders/1CTzJr9bETXpkPZIBh77MD8uthmh0T3KD?usp=drive_link)
 
 - 📫 How to reach me **mishrahariom2708@gmail.com**
 
@@ -24,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hari-om-mishra-613470228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-om-mishra-613470228/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100048557453599&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100048557453599&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/this___is___hariom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/this___is___hariom/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpkh80zearljlz-zyjrogzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpkh80zearljlz-zyjrogzg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hari om mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari om mishra" height="30" width="40" /></a>
+<a href="https://fb.com/hariom mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hariom mishra" height="30" width="40" /></a>
+<a href="https://instagram.com/this___is___hariom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this___is___hariom" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/evilnights gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evilnights gaming" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
